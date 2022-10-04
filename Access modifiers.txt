@@ -1,0 +1,25 @@
+>>Access modifiers>>
+
+- Private :
+  * Within class                      - Yes
+  * Within package                    - No
+  * Outside package by subclass only  - No
+  * Outside package                   - No
+
+- Default :
+  * Within class                      - Yes
+  * Within package                    - Yes
+  * Outside package by subclass only  - No
+  * Outside package                   - No
+
+- Protected :
+  * Within class                      - Yes
+  * Within package                    - Yes
+  * Outside package by subclass only  - Yes
+  * Outside package                   - No
+
+- Public :
+  * Within class                      - Yes
+  * Within package                    - Yes
+  * Outside package by subclass only  - Yes
+  * Outside package                   - Yes
